@@ -1,8 +1,4 @@
-# Open Player
-
-## Português do Brasil
-
-# Open Player
+# Open Player (Português do Brasil)
 
 O **Open Player** é um player de mídia para desktop, desenvolvido com Electron e libVLC, criado para oferecer uma experiência simples, rápida e personalizável para reprodução de vídeos e áudios.
 
@@ -89,9 +85,7 @@ Consulte o arquivo de licença incluído neste repositório para obter as condi�
 
 ---
 
-## English
-
-# Open Player
+# Open Player (English)
 
 **Open Player** is a desktop media player built with Electron and libVLC, designed to provide a simple, fast, and customizable experience for video and audio playback.
 
