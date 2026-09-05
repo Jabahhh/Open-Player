@@ -1,6 +1,3 @@
-# Open-Player
-O Open Player é um player de mídia para desktop, desenvolvido com Electron e libVLC, criado para oferecer uma experiência simples, rápida e personalizável para reprodução de vídeos.
-[Open Player — Descrição para o GitHub.md](https://github.com/user-attachments/files/31867227/Open.Player.Descricao.para.o.GitHub.md)
 # Open Player
 
 ## Português do Brasil
