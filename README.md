@@ -1,5 +1,8 @@
 # Open Player (Português do Brasil)
 
+<img width="950" height="546" alt="1" src="https://github.com/user-attachments/assets/77850019-90ca-41dd-b2d6-ca4a8048bb81" />
+<img width="1335" height="732" alt="2" src="https://github.com/user-attachments/assets/d8cc6785-7610-4c0f-a492-4a7717c44e4b" />
+
 O **Open Player** é um player de mídia para desktop, desenvolvido com Electron e libVLC, criado para oferecer uma experiência simples, rápida e personalizável para reprodução de vídeos e áudios.
 
 O projeto oferece suporte a diversos formatos de mídia, incluindo MP4, MKV, WebM, MOV, AVI, MPEG, MPG, M4V, OGV e outros formatos compatíveis com o libVLC. Também permite selecionar faixas de áudio e legendas, reproduzir conteúdos com múltiplos idiomas, trabalhar com legendas incorporadas ou externas e controlar volume, mute, velocidade, repetição e formato de vídeo.
